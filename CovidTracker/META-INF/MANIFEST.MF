@@ -1,0 +1,228 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.5.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: iewIWM/jOzznvbusHhddtnKSPJo=
+
+Name: META-INF/androidx.activity_activity.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: META-INF/androidx.arch.core_core-runtime.version
+SHA1-Digest: OGGiGAP82euSpAMCew2iu3rdTeE=
+
+Name: META-INF/androidx.core_core.version
+SHA1-Digest: BeF7ZGqBckDCBhhvlPj0xwl01dw=
+
+Name: META-INF/androidx.customview_customview.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA1-Digest: BeF7ZGqBckDCBhhvlPj0xwl01dw=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+SHA1-Digest: OGGiGAP82euSpAMCew2iu3rdTeE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA1-Digest: OGGiGAP82euSpAMCew2iu3rdTeE=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA1-Digest: NT7mjKJGjc5kZNMxBEZD01D9JW8=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+SHA1-Digest: +XsPgR8lkGq3jxqliRDbV1fGTFg=
+
+Name: META-INF/androidx.loader_loader.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: META-INF/androidx.savedstate_savedstate.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA1-Digest: BeF7ZGqBckDCBhhvlPj0xwl01dw=
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: assets/flutter_assets/AssetManifest.json
+SHA1-Digest: z3CAKFPo+Bm6+J/awUxQqWimVGs=
+
+Name: assets/flutter_assets/FontManifest.json
+SHA1-Digest: qRuEWHVR6aBV2gzUvphzDwFvi+I=
+
+Name: assets/flutter_assets/NOTICES
+SHA1-Digest: TwyZ+1iPz0KZbW0Q/voQeJySxIY=
+
+Name: assets/flutter_assets/assets/images/in_flag.png
+SHA1-Digest: 5nEbnEbGb5d2KvLGql7brS+rlqk=
+
+Name: assets/flutter_assets/assets/images/info0.png
+SHA1-Digest: +Gk+JGuB44aHzaXdAg4EPeSmquQ=
+
+Name: assets/flutter_assets/assets/images/info1.png
+SHA1-Digest: o1d9j3d/Yzw+VSAbd7sAjVqE0pY=
+
+Name: assets/flutter_assets/assets/images/info2.png
+SHA1-Digest: PogPLCb1ZnFvYtxKfZoVdctSHoQ=
+
+Name: assets/flutter_assets/fonts/CircularAir-Light.ttf
+SHA1-Digest: QrKVr2fMekR/sUD75OD2uvNIkgg=
+
+Name: assets/flutter_assets/fonts/CircularStd-Bold.ttf
+SHA1-Digest: h5q7JXnoOrQ8CarY+njy1hSs4Hc=
+
+Name: assets/flutter_assets/fonts/CircularStd-Medium.ttf
+SHA1-Digest: Ji5uV0JCBxaDS7ZYSgPoMQaQ4EE=
+
+Name: assets/flutter_assets/fonts/MaterialIcons-Regular.ttf
+SHA1-Digest: HNpaJE+lJmpyuxqLQ9P+s16Gfwg=
+
+Name: assets/flutter_assets/packages/cupertino_icons/assets/CupertinoI
+ cons.ttf
+SHA1-Digest: TdRNbRcrlXQQgeiweLFizPmk92g=
+
+Name: classes.dex
+SHA1-Digest: rFk09iDMRxAxFuyI0mcQgTC0CiQ=
+
+Name: lib/arm64-v8a/libapp.so
+SHA1-Digest: boSct96EG78f6DnqqMpQjYBffzU=
+
+Name: lib/arm64-v8a/libflutter.so
+SHA1-Digest: an8/aqx1fwhwUTO6SclOE5oOiyY=
+
+Name: lib/armeabi-v7a/libapp.so
+SHA1-Digest: Z+9o/tb2gL5/9uWUuM2J+slix6k=
+
+Name: lib/armeabi-v7a/libflutter.so
+SHA1-Digest: AinWyUobMoVndotYdkDWe6ZsLU8=
+
+Name: lib/x86_64/libapp.so
+SHA1-Digest: YIPev1tFQ7joUOiOm70URMUMFeo=
+
+Name: lib/x86_64/libflutter.so
+SHA1-Digest: dEEM3brb2/drb6Ly6PfAG/q4DdQ=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: rJU/U7/gLj7gG47D4S8Rqf0VFKM=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: Wp0Fh3i+tOltH5aKKamOzD2d/wY=
+
+Name: res/drawable/launch_background.xml
+SHA1-Digest: TIB66X039sMXhZwl7OWgXln130M=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout-v17/notification_action.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout/custom_dialog.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: PVT9QEHHQ0+HvcJk9bpXXssMvdg=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: 2wYn95WB3Kn3iKBxCt0Tzj7n1zA=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: wm/hGvwWjF5bb6dM7qpG1xOO1c8=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: /yViv2JpHSurn0QxelTBQ//3lc8=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: u9DeX6AGY1NN9U+Vs8+ZX5XUvss=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: 9K9QsCs7zmQWoXrYrt3rD0GcDj8=
+
+Name: resources.arsc
+SHA1-Digest: 1YDq5v1kOOe5SuYmOIvZhMapzpY=
+
